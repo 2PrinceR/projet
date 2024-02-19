@@ -1,12 +1,14 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: #f0f0f0;
-    color: #333;
+    background-image: url('images/fond.gif');
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #34a092;
     margin: 0;
     padding: 0;
 }
 
-h1, h2, h3, h4, h5, h6 {
+h1{
     color: #af2424;
 }
 
@@ -15,10 +17,6 @@ h1 {
     margin-bottom: 0.5em;
 }
 
-h2 {
-    font-size: 1.5em;
-    margin-bottom: 0.5em;
-}
 
 p {
     line-height: 1.6em;
